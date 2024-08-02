@@ -6,3 +6,4 @@ seaborn
 flask
 scikit-learn
 statsmodels
+pickle-mixin
